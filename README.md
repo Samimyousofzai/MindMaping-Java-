@@ -1,1 +1,0 @@
-# MindMaping-Java-
